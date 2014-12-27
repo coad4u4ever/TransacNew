@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Transac</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Header">TRANSAC</string>
+    <string name="date_today">DD-MM-YYYY</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_show_transac">ShowTransacActivity</string>
+
+</resources>
